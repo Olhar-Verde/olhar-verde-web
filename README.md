@@ -1,4 +1,4 @@
-# Projeto Integrador – Front-end MG/SP5 
+# Projeto Integrador – Front-end Proa + Serasa Experian MG/SP5 
 
 ## Tema
 Consciência ecológica e práticas de reciclagem.

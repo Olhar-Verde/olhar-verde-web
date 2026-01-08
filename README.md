@@ -11,13 +11,16 @@ da reciclagem e da preservação do meio ambiente de forma acessivel faciltando 
 - HTML5
 - CSS3
 - Git & GitHub
+- Javascript
+- Visual Studios Code 
 
 ## Integrantes
 - Arthur Coelho (P.O)
 - Nina Maria Rezende Januário (Scrum)
 - Emily Vitória Silva Almeida
 - Thaiany Miranda Freitas
-- Luan Santhiago da Silva Ferreira 
+- Luan Santhiago da Silva Ferreira
+- Izadora Taciana Silva Duarte
 
 ## Status do projeto
 Em desenvolvimento 

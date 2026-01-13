@@ -1,4 +1,4 @@
- 
+  /*css index*/
 
 * {
   margin: 0;
@@ -40,6 +40,10 @@ body {
   border-radius: 50%;
 }
 
+.header .btn-outline:focus{
+  box-shadow: #2763a39d;
+
+}
 .header .btn-outline button {
   padding: 10px 24px;
   border: 2px solid #7fc97f;
@@ -48,6 +52,12 @@ body {
   color: #fff;
   cursor: pointer;
   font-size: 14px;
+  transition: transform 0.2s, background 0.3s;
+}
+
+.header .btn-outline:hover {
+  background: #2763a3;
+  transform: translateY(-2px);
 }
 
 .slogan {
@@ -59,29 +69,45 @@ body {
 
 }
 
-.slogan h1 {
-  justify-content: center;
+.slogan .slogan-text h1 {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  font-size: 40px;
   text-align: center;
-  font-size: 42px;
-  margin-bottom: 16px;
+}
+
+.slogan .slogan-text p {
+  position: relative;
+  font-size: 20px;
+  color: #ffffff;
+  text-align: center;
+  margin-block-end: 15px;
 }
   
-.slogan p {
-  display: flex;
-  justify-content: center;
-  align-items:center;
-  margin-top: 20px;
-  padding: 10px;
-  color: white;   
-  font-size: 18px;
-  max-width: 500px;
+
+
+
+.slogan .bottles {
+  position: relative;
+  left: 1260px;
+  top: 140px;
 
   
-  
-}
+
+} 
 
 .section {
   padding: 60px 40px;
+}
+
+.section .eco {
+  position: relative;
+  right: 700px;
+  top: 677px;
+  transform: rotate(90deg);
+
+
 }
 
 .section .card-2 {
@@ -97,10 +123,10 @@ body {
 
 .section .card-s .card {
   position: absolute;
-  top: 370px;
+  top: 430px;
   right: 20px;
   padding: 40px;
-  margin: 5px;
+  margin-top: 30px;
   text-align: justify;
 }
 
@@ -134,7 +160,7 @@ body {
 .section-r .cards .cardP {
   justify-items: center;
   justify-content: center;
-  background: #2b54bd;
+  background: #1f4ebe;
 }
 
 .section-r h4 p{
@@ -146,6 +172,13 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 24px;
+}
+
+.section-r .lata-lixo{
+  position: absolute;
+  margin-top: 50px;
+  top: 214%;
+  left: 72%;
 }
 
 .cards .cardP {

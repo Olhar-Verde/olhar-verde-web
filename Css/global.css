@@ -784,4 +784,9 @@ footer {
   .login .image-text {
     display: none;
   }
+  
+  .brand img {
+    max-height: 48px;
+    width:auto
+  }
 }

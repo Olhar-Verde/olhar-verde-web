@@ -4,15 +4,19 @@
 Consciência ecológica e práticas de reciclagem.
 
 ## Objetivo
-Desenvolver um site informativo para conscientizar a população sobre a importância
-da reciclagem e da preservação do meio ambiente de forma acessivel faciltando informações para todos os grupos sociais.
+O Olhar Verde é uma plataforma informativa desenvolvida como projeto final do curso de Front-end. O objetivo central é democratizar o acesso a informações sobre práticas de reciclagem e preservação ambiental, utilizando uma interface acessível para diferentes grupos sociais.
 
 ## Tecnologias utilizadas
 - HTML5
 - CSS3
 - Git & GitHub
 - Javascript
-- Visual Studios Code 
+- Visual Studios Code
+
+## Funcionalidades Principais
+Página Informativa: Conteúdo focado em educação ambiental e práticas sustentáveis.
+Fluxo de Engajamento: Sistema de navegação que direciona o usuário para formas de apoiar a causa (Página de Cadastro/Login).
+Design Responsivo: Adaptado para proporcionar uma boa experiência de leitura.
 
 ## Integrantes
 - Arthur Coelho (P.O)
@@ -23,4 +27,4 @@ da reciclagem e da preservação do meio ambiente de forma acessivel faciltando 
 - Izadora Taciana Silva Duarte
 
 ## Status do projeto
-Em desenvolvimento 
+MVP (Minimum Viable Product) / Concluído para entrega final.
